@@ -12,6 +12,7 @@
 // Commit and push changes to remote repository
 // Stage ----> Commit
 // Creating new branches
+// Git status ----> Current status of our repository
 
 
 
@@ -22,7 +23,7 @@ console.log("This is from Dev branch")
 
 for (i=0; i<10; i++) {
     console.log(i)
-}
+};
 
 
 

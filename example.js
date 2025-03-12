@@ -10,13 +10,19 @@
 
 // Intialization of Git
 // Commit and push changes to remote repository
+// Stage ----> Commit
+// Creating new branches
 
 
 
 
 
 
-console.log("This is from local repo")
+console.log("This is from Dev branch")
+
+for (i=0; i<10; i++) {
+    console.log(i)
+}
 
 
 
